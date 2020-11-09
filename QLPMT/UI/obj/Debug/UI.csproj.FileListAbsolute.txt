@@ -1,0 +1,10 @@
+C:\Users\sv\Documents\GitHub\QLPHONGMACHTU\QLPMT\UI\bin\Debug\UI.exe.config
+C:\Users\sv\Documents\GitHub\QLPHONGMACHTU\QLPMT\UI\bin\Debug\UI.exe
+C:\Users\sv\Documents\GitHub\QLPHONGMACHTU\QLPMT\UI\bin\Debug\UI.pdb
+C:\Users\sv\Documents\GitHub\QLPHONGMACHTU\QLPMT\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\sv\Documents\GitHub\QLPHONGMACHTU\QLPMT\UI\obj\Debug\UI.fLogin.resources
+C:\Users\sv\Documents\GitHub\QLPHONGMACHTU\QLPMT\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\sv\Documents\GitHub\QLPHONGMACHTU\QLPMT\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\sv\Documents\GitHub\QLPHONGMACHTU\QLPMT\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\sv\Documents\GitHub\QLPHONGMACHTU\QLPMT\UI\obj\Debug\UI.exe
+C:\Users\sv\Documents\GitHub\QLPHONGMACHTU\QLPMT\UI\obj\Debug\UI.pdb
